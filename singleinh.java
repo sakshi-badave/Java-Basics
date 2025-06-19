@@ -1,11 +1,11 @@
 class parent{
     void hi(){
-        System.out.println("Hi I am Sakshi");
+        System.out.println("Hi I am ABC");
     }
 }
 class child extends parent{
     void intro(){
-        System.out.println("I am student at MITAOE");
+        System.out.println("I am student at ABD");
     }  
   
 }
